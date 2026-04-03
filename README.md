@@ -1,7 +1,5 @@
 # African Literacy AI Tutor - RL Summative
 
-**Repository:** `blessing_hirwa_rl_summative`
-
 ## Mission
 Tackling linguistic and literacy barriers in African education by developing voice-first, localized AI tutoring systems using reinforcement learning.
 
@@ -41,7 +39,7 @@ A custom Gymnasium environment where an RL agent acts as an AI tutor, making ped
 - Penalties: frustration, fatigue ignoring, difficulty mismatch, prerequisite violations
 
 ### Environment Dynamics
-- **Prerequisite gating**: Can't attempt advanced skills without foundational mastery
+- **Prerequisite gating**: Can't attempt advanced skills without foundational skills
 - **Forgetting curve**: Skills decay without review
 - **Language transfer**: Related languages (Kinyarwanda/Swahili) share positive transfer
 - **Affective modeling**: Fatigue, frustration, engagement affect learning rate
