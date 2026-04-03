@@ -1,0 +1,14 @@
+{
+  "reinforce": {
+    "run": 6,
+    "mean_reward": 161.39
+  },
+  "ppo": {
+    "run": 10,
+    "mean_reward": 284.1
+  },
+  "a2c": {
+    "run": 1,
+    "mean_reward": 274.34
+  }
+}
